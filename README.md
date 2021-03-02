@@ -1,2 +1,2 @@
-# bd_strategy
-Examples of business development and strategy capabilities
+# business_development_strategy
+Example of business development and strategy work
